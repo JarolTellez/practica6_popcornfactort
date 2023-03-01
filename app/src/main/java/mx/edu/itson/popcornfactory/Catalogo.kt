@@ -57,6 +57,21 @@ class Catalogo : AppCompatActivity() {
                 " When Buzz Lightyear, a space-ranger, takes Woody's place as Andy's favorite toy, Woody doesn't like the situation and gets into a fight with Buzz. Accidentaly Buzz" +
                 " falls out the window and Woody is accused by all the other toys of having killed him. He has to go out of the house to look for him so that they can both return to " +
                 "Andys room. But while on the outside they get into all kind of trouble while trying to get home."))
+        peliculas.add(Pelicula("1917",R.drawable.war,R.drawable.warheader,"British trenches somewhere in France. World war has been going on for the third year,\n" +
+                "heroic illusions have dissipated; general mood - boredom and fatigue. Stuff the belly,\n" +
+                "sleep, return home to Christmas Eve. On another quiet day, when nothing happens, two\n" +
+                "young soldiers, Blake and Schofield, are summoned to the general, who instructs them to\n" +
+                "send an important message to Colonel MacKenzie in the Second Devonshire Battalion,\n" +
+                "whose telephone connection was cut off by the enemy."))
+        peliculas.add(
+            Pelicula("Men in Black",R.drawable.mib,R.drawable.mibheader,
+                "British trenches somewhere in France. World war has been going on for the third year,\n" +
+                        "heroic illusions have dissipated; general mood - boredom and fatigue. Stuff the belly,\n" +
+                        "sleep, return home to Christmas Eve. On another quiet day, when nothing happens, two\n" +
+                        "young soldiers, Blake and Schofield, are summoned to the general, who instructs them to\n" +
+                        "send an important message to Colonel MacKenzie in the Second Devonshire Battalion,\n" +
+                        "whose telephone connection was cut off by the enemy.")
+        )
         series.add(Pelicula("Smallville", R.drawable.smallville, R.drawable.smallvilleheader, "The numerous miraculous rescues by the local wonder boy Clark have aroused suspicions amongst\n" +
                 "colonials of Smallville. Interestingly, the boy has managed to downplay his acts of various heroic\n" +
                 "egresses in the past. They say he&#39;s either too fast or has a penchant for finding trouble. He was\n" +
@@ -81,6 +96,20 @@ class Catalogo : AppCompatActivity() {
                 "of ten years, this average group of buddies goes through massive mayhem, family trouble, past and\n" +
                 "future romances, fights, laughs, tears and surprises as they learn what it really means to be a\n" +
                 "friend. "))
+        series.add(
+            Pelicula("Suits",R.drawable.suits,R.drawable.suitsheader,
+                "While running from a drug deal gone bad, brilliant young college dropout Mike Ross slips into a job\n" +
+                        "interview with one of New York City&#39;s best legal closers, Harvey Specter. Tired of cookie-cutter law-\n" +
+                        "school grads, Harvey takes a gamble by hiring Mike on the spot after recognizing his raw talent and\n" +
+                        "photographic memory. Mike and Harvey are a winning team. Although Mike is a genius, he still has\n" +
+                        "a lot to learn about law; and while Harvey might seem like an emotionless, cold-blooded shark,\n" +
+                        "Mike&#39;s sympathy and concern for their cases and clients will help remind Harvey why he went into\n" +
+                        "law in the first place. Mike&#39;s other allies in the office include the firm&#39;s best paralegal Rachel and\n" +
+                        "Harvey&#39;s no-nonsense assistant Donna. Proving to be an irrepressible duo and invaluable to the\n" +
+                        "practice, Mike and Harvey must keep their secret from everyone including managing partner\n" +
+                        "Jessica and Harvey&#39;s archnemesis Louis, who seems intent on making Mike&#39;s life as difficult as\n"+
+ "possible.")
+        )
 
     }
 
