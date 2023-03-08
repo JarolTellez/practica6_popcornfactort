@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PopCornFactory</string>
+    <string name="welcome">Welcome to Ppocorn Factory, home of the best series an movies. Just lay down, make some popcorn and ejoy!</string>
+    <string name="getMeIn">GET ME IN!</string>
+    <string name="movies">Movies</string>
 </resources>
